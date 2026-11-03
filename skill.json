@@ -1,0 +1,17 @@
+{
+  "name": "genpark-personal-agent-cardiac-heart-rate-recovery-post-exercise-skill",
+  "version": "1.0.0",
+  "description": "Calculates 1-minute and 2-minute post-exercise heart rate recovery (HRR = HR_peak - HR_recovery) to assess parasympathetic vagal reactivation and cardiovascular mortality risk.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "cardiac",
+    "exercise-physiology",
+    "heart-rate-recovery",
+    "autonomic-nervous-system"
+  ],
+  "dependencies": []
+}
